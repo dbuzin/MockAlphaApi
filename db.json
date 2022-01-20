@@ -1,0 +1,16 @@
+{
+  "bank_accounts": [
+    {
+      "account_id": 123456,
+      "currency": "RUB",
+      "sum": 23412.56,
+      "type": "сredit"
+    },
+    {
+      "account_id": 789012,
+      "currency": "RUB",
+      "sum": 78192.32,
+      "type": "debit"
+    }
+  ]
+}
